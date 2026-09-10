@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the associated paper and this software release."
+title: "Transaction-Level Comparison of Machine Learning and Graph Neural Networks for Anti-Money Laundering Detection"
+type: software
+version: 1.0.0
+date-released: 2026-09-10
+authors:
+  - family-names: Reddy
+    given-names: Aman
+  - family-names: Hamad
+    given-names: Areesha
+  - family-names: Paul
+    given-names: Glen Anton
+  - family-names: Pradeep
+    given-names: Manikandan
+  - family-names: Hasheer
+    given-names: Mohammad
+  - family-names: Syed
+    given-names: Umar
+  - family-names: K
+    given-names: Syama
+  - family-names: Famnaz
+    given-names: Asmath
+

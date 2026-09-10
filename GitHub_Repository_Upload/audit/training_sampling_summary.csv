@@ -1,0 +1,6 @@
+seed,transactions,positive_transactions,negative_transactions,negative_to_positive_ratio,file
+42,117147,2297,114850,50.0,/kaggle/working/aml_outputs/training_samples/training_sample_seed_42.parquet
+52,117147,2297,114850,50.0,/kaggle/working/aml_outputs/training_samples/training_sample_seed_52.parquet
+62,117147,2297,114850,50.0,/kaggle/working/aml_outputs/training_samples/training_sample_seed_62.parquet
+72,117147,2297,114850,50.0,/kaggle/working/aml_outputs/training_samples/training_sample_seed_72.parquet
+82,117147,2297,114850,50.0,/kaggle/working/aml_outputs/training_samples/training_sample_seed_82.parquet

@@ -1,0 +1,55 @@
+feature,mean_absolute_shap
+Payment Format_ACH,1.4953659
+log_sender_prior_currency_count,1.1591163
+Payment Currency_Saudi Riyal,0.9514841
+log_amount_paid,0.77441436
+log_sender_prior_currency_mean,0.6758806
+Payment Format_Credit Card,0.657487
+weekday_cos,0.6065785
+log_amount_received,0.51979786
+log_receiver_prior_currency_mean,0.45294586
+log_receiver_prior_currency_amount,0.43576393
+log_sender_prior_currency_amount,0.4024054
+time_sin,0.38104168
+Receiving Currency_Ruble,0.37165254
+time_cos,0.36075535
+Payment Currency_Rupee,0.3351958
+log_receiver_prior_tx_count,0.3252279
+Receiving Currency_Shekel,0.32360396
+Receiving Currency_Brazil Real,0.28454313
+Payment Format_Reinvestment,0.26848504
+Payment Currency_Yuan,0.2623888
+Payment Currency_Shekel,0.26131225
+Receiving Currency_Australian Dollar,0.24271421
+Payment Format_Cheque,0.24117139
+Receiving Currency_Yen,0.23519903
+Payment Currency_Mexican Peso,0.23412248
+Payment Format_Cash,0.22323684
+Payment Currency_Yen,0.19424912
+Payment Currency_Ruble,0.1915276
+log_sender_prior_tx_count,0.19136104
+Receiving Currency_Mexican Peso,0.18772767
+weekday_sin,0.15719704
+log_receiver_prior_currency_count,0.12821822
+Payment Currency_Bitcoin,0.12677583
+Receiving Currency_Rupee,0.115401365
+Receiving Currency_Swiss Franc,0.10929905
+Receiving Currency_UK Pound,0.10519757
+Payment Currency_UK Pound,0.09566878
+Payment Currency_Swiss Franc,0.090871565
+Payment Format_Wire,0.08370733
+Receiving Currency_Canadian Dollar,0.06622193
+Payment Currency_Australian Dollar,0.057430018
+Receiving Currency_Saudi Riyal,0.057407063
+Receiving Currency_Yuan,0.052852307
+Payment Currency_Brazil Real,0.034099787
+self_transfer,0.031168973
+Payment Currency_US Dollar,0.02644378
+Payment Currency_Canadian Dollar,0.023532037
+same_currency,0.022874082
+Receiving Currency_US Dollar,0.022277607
+Receiving Currency_Euro,0.02154566
+Payment Format_Bitcoin,0.019796526
+Payment Currency_Euro,0.019457854
+Receiving Currency_Bitcoin,0.018207245
+same_bank,0.007564542

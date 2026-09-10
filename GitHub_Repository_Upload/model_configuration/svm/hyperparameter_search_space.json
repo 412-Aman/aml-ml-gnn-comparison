@@ -1,0 +1,22 @@
+{
+  "model": "Linear SVM",
+  "selection_metric": "validation_auprc",
+  "search_seed": 42,
+  "candidates": [
+    {
+      "C": 0.01,
+      "tol": 0.0001,
+      "max_iter": 10000
+    },
+    {
+      "C": 0.1,
+      "tol": 0.0001,
+      "max_iter": 10000
+    },
+    {
+      "C": 1.0,
+      "tol": 0.0001,
+      "max_iter": 10000
+    }
+  ]
+}
