@@ -1,0 +1,7 @@
+column,split,unseen_category_count,unseen_categories
+Payment Currency,validation,0,
+Payment Currency,test,0,
+Receiving Currency,validation,0,
+Receiving Currency,test,0,
+Payment Format,validation,0,
+Payment Format,test,0,

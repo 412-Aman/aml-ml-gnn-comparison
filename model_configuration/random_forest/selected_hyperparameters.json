@@ -1,0 +1,17 @@
+{
+  "model": "Random Forest",
+  "selection_metric": "validation_auprc",
+  "search_seed": 42,
+  "search_seconds": 282.0542928499999,
+  "class_weight": "balanced_subsample",
+  "best_candidate": 3,
+  "best_parameters": {
+    "n_estimators": 250,
+    "max_depth": null,
+    "min_samples_leaf": 2,
+    "max_features": "sqrt"
+  },
+  "validation_auprc": 0.337030800889467,
+  "validation_f1": 0.3609879670677644,
+  "validation_selected_threshold": 0.7446811976679287
+}

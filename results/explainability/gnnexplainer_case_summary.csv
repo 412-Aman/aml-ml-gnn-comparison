@@ -1,0 +1,3 @@
+case,model,seed,transaction_id,actual_label,predicted_label,score,validation_threshold,local_nodes,local_message_edges,past_only_graph,future_validation_or_test_edges_present
+correctly_detected_suspicious,GAT,72,4103020,1,1,0.5714841485023499,0.5704254508018494,2,1,True,False
+missed_suspicious,GAT,72,4334212,1,0,0.5501676201820374,0.5704254508018494,3,1,True,False

@@ -1,0 +1,8 @@
+{
+  "status": "complete",
+  "model": "GAT",
+  "seed": 72,
+  "selection_rule": "highest mean validation AUPRC, then highest seed-level validation AUPRC",
+  "past_only_graph": true,
+  "future_validation_or_test_edges_present": false
+}

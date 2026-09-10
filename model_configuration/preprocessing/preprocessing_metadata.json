@@ -1,0 +1,12 @@
+{
+  "training_rows_used_to_fit": 3046859,
+  "numeric_input_features": 17,
+  "categorical_input_features": 3,
+  "encoded_categorical_features": 37,
+  "total_processed_features": 54,
+  "scikit_learn_version": "1.6.1",
+  "scaler": "StandardScaler",
+  "encoder": "OneHotEncoder",
+  "unknown_category_policy": "ignore",
+  "fitted_using_training_partition_only": true
+}
